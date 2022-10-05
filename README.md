@@ -1,1 +1,1 @@
-My day is cool
+I am a software developer
